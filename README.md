@@ -1,0 +1,2 @@
+# ASTCIE-Adaptive-Spatio-Temporal-Complexity-Intelligence-Engine-v2
+R &amp; D Engineer focused on intelligent video complexity analysis, adaptive bitrate allocation, and broadcast systems. Developed ASTCIE, a spatio-temporal video intelligence engine integrating complexity, motion, texture, distributional, and tail-risk analysis with automated FFmpeg encoding, bitrate allocation, and multi-program MPEG-TS broadcasting.
